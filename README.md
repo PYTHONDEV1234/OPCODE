@@ -4,6 +4,7 @@
 
 **Current Version:**
     OPCODE v1.1.0 = main software/method release, Zenodo archived release: v1.1.1 = citable archived snapshot
+
 **Status:** Pre-publication validation complete
 
 OPCODE is a contrast-based computational framework for identifying oligodendrocyte progenitor cells (OPCs) in large-scale single-cell RNA-sequencing datasets from diverse mouse brain tissue.
