@@ -1,0 +1,12 @@
+gene,protein,notes
+Pdgfra,PDGFRα,Classic OPC surface marker (mouse OPC enrichment).
+Cspg4,NG2/CSPG4,Classic OPC surface marker (also pericytes; use with other markers).
+Vcam1,VCAM1,Reported on subsets of glial progenitors; context-dependent.
+Itga6,Integrin α6,Often used in glial progenitor sorting panels.
+Itgb1,Integrin β1,Broadly expressed; use as secondary marker.
+Cd9,CD9,Tetraspanin; can appear in glial populations; specificity varies.
+Cd81,CD81,Tetraspanin; may assist as combinatorial marker.
+A2m,A2M,Secreted; included for awareness—NOT ideal for sorting.
+Ptprc,CD45,Immune depletion marker (negative selection).
+Pecam1,CD31,Endothelial depletion marker (negative selection).
+Epcam,EPCAM,Epithelial depletion marker (negative selection; often absent in brain).
