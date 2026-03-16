@@ -1,6 +1,7 @@
 import numpy as np
 from tqdm import trange
 
+OPCODE_VERSION = "1.1.0"
 
 def score_v5_opc(adata):
 
