@@ -230,9 +230,13 @@ These tools are intended to support reproducible manuscript preparation and down
 
 This repository reflects the pre-publication release state of OPCODE v1.1.1.
 
-The codebase is publicly available here:
+Code availability
 
+The OPCODE source code is available on GitHub:
 https://github.com/PYTHONDEV1234/OPCODE
+
+Archived release for citation:
+https://doi.org/10.5281/zenodo.19057893
 
 ## Data Availability
 
