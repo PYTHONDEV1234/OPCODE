@@ -2,7 +2,7 @@
 
 **Oligodendrocyte Progenitor Cell Contrast-Oriented Detection Engine**
 
-**Current Version:** OPCODE v1.1.0  
+**Current Version:** OPCODE v1.1.1 
 **Status:** Pre-publication validation complete
 
 OPCODE is a contrast-based computational framework for identifying oligodendrocyte progenitor cells (OPCs) in large-scale single-cell RNA-sequencing datasets from diverse mouse brain tissue.
@@ -47,9 +47,9 @@ The magnitude of V5 reflects transcriptional contrast within a dataset and can v
 
 Accordingly, V5 is best interpreted primarily as a within-dataset ranking and separation metric, rather than a universal absolute scale across all datasets.
 
-## Updates in v1.1.0
+## Updates in v1.1.1
 
-OPCODE v1.1.0 includes substantial workflow and robustness improvements over the earlier frozen baseline:
+OPCODE v1.1.1 includes substantial workflow and robustness improvements over the earlier frozen baseline:
 
 - normalization-aware preprocessing before V5 scoring
 - improved cross-dataset score comparability
@@ -228,7 +228,7 @@ These tools are intended to support reproducible manuscript preparation and down
 
 ## Code Availability
 
-This repository reflects the pre-publication release state of OPCODE v1.1.0.
+This repository reflects the pre-publication release state of OPCODE v1.1.1.
 
 The codebase is publicly available here:
 
@@ -244,7 +244,7 @@ No proprietary datasets were used in the reported validation workflow.
 
 - **v1.0.0**: frozen manuscript-era baseline
 - **v1.0.1**: intermediate refinement stage
-- **v1.1.0**: normalization-aware, report-improved, robustness-focused public release
+- **v1.1.1**: normalization-aware, report-improved, robustness-focused public release
 
 ## License
 
