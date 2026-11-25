@@ -251,6 +251,7 @@ No proprietary datasets were used in the reported validation workflow.
 - **v1.0.0**: frozen manuscript-era baseline
 - **v1.0.1**: intermediate refinement stage
 - **v1.1.1**: normalization-aware, report-improved, robustness-focused public release
+- **v1.1.2**: GPL-3.0 open-source licensing and documentation update; computational methodology unchanged.
 
 ## License
 
