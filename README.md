@@ -254,8 +254,11 @@ No proprietary datasets were used in the reported validation workflow.
 
 ## License
 
-No open-source license has been applied at this stage.  
-All rights reserved.
+Copyright © 2026 Ansel Belani.
+
+OPCODE is free and open-source software distributed under the GNU General Public License v3.0 (GPL-3.0-only).
+
+See the [LICENSE](LICENSE) file for the full license terms.
 
 ## Author
 
